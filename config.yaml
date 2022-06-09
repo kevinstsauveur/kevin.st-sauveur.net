@@ -1,0 +1,88 @@
+baseURL: 'http://localhost:1313/'
+languageCode: en-ca
+title: "Kevin.st-sauveur.ca"
+theme: "PaperMod"
+
+menu:
+    main:
+        - name: Archive
+          url: archives
+          weight: 10
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: "About"
+          url: about/
+          weight: 10
+
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+
+params:
+    GitHubUser: kevinstsauveur
+    profileMode:
+        enabled: true
+        title: "Kevin St-Sauveur" # optional default will be site title
+        subtitle: "Welcome on my website!"
+        imageUrl: "/img/profile.jpg" # optional
+        imageTitle: "Kevin" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Posts
+              url: "/posts"
+            - name: About
+              url: "/about"
+
+    socialIcons: # optional
+        - name: github
+          url: "https://github.com/kevinstsauveur/"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/kevinstsauveur"
+        - name: email
+          url: "mailto:kevin@st-sauveur.ca"
+        - name: RsS
+          url: "index.xml"
+
+    cover:
+        linkFullImages: true
+
+    ShowShareButtons: true
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowToc: true
+    ShowPostNavLinks: true
+    ShowCodeCopyButtons: true
+    defaultTheme: auto
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
