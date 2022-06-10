@@ -45,8 +45,8 @@ params:
         subtitle: "Technology enthusiast"
         imageUrl: "/img/profile.jpg" # optional
         imageTitle: "Kevin" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
+        imageWidth: 220 # custom size
+        imageHeight: 220 # custom size
         buttons:
             - name: Posts
               url: "/posts"
