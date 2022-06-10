@@ -1,12 +1,15 @@
 baseURL: 'https://kevin.st-sauveur.ca/'
 languageCode: en-ca
-title: "Kevin.st-sauveur.ca"
+title: "Kevin.St-Sauveur.ca"
 theme: "PaperMod"
 
 menu:
     main:
         - name: Archive
-          url: archives
+          url: archives/
+          weight: 10
+        - name: "Posts"
+          url: posts/
           weight: 10
         - name: Search
           url: search/
@@ -32,10 +35,13 @@ assets:
 
 params:
     GitHubUser: kevinstsauveur
+    author: Kevin St-Sauveur
+    description: "kevin.st-sauveur.ca | https://github.com/kevinstsauveur/kevin.st-sauveur.ca"
+
     profileMode:
         enabled: true
         title: "Kevin St-Sauveur" # optional default will be site title
-        subtitle: "Welcome on my website!"
+        subtitle: "Technology enthusiast"
         imageUrl: "/img/profile.jpg" # optional
         imageTitle: "Kevin" # optional
         imageWidth: 120 # custom size
@@ -75,6 +81,8 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+    
+    googleAnalytics: G-6ZQP7T805G
 
 outputs:
     home:
