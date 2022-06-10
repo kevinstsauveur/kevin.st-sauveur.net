@@ -8,17 +8,17 @@ TocOpen: true
 
 ## Hi there, I'm Kevin 👋
 
-Hello! I'm Kevin St-Sauveur, an undergraduate in Software Engineering (BEng.) at ÉTS (École de Technologie Supérieure) from Montreal :flag_ca: . I'm passionnate about new technologies that evolves around security and privacy.
+Hello! I'm Kevin St-Sauveur, an undergraduate in Software Engineering (BEng.) at ÉTS (École de Technologie Supérieure) from Montreal :flag_ca: . I'm passionate about new technologies that evolves around security and privacy.
 
 ## Hobbies
 
-- 🧑‍💻 Software developper by the week.
+- 🧑‍💻 Software developer by the week.
 - 🌳 Passionate hiker that is impressed by the gorgeous nature by the weekend.
 - 📚 I’m constantly learning about online privacy and security practices.
 
 ## Projects
 
-You can see more of my projets on my [github](https://github.com/kevinstsauveur/).
+You can see more of my projects on my [github](https://github.com/kevinstsauveur/).
 
 ## Contact
 
