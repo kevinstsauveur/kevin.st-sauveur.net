@@ -34,6 +34,7 @@ assets:
     apple_touch_icon: "/apple-touch-icon.png"
 
 params:
+    env: production
     GitHubUser: kevinstsauveur
     author: Kevin St-Sauveur
     description: "kevin.st-sauveur.ca | https://github.com/kevinstsauveur/kevin.st-sauveur.ca"
