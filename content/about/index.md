@@ -4,7 +4,7 @@ ShowToc: false
 TocOpen: true
 ---
 
-<img loading="lazy" src="/img/profile.jpg" alt="Kevin's profile picture" width="250">
+<img loading="lazy" src="/img/profile.webp" alt="Kevin's profile picture" style="width:20em; height:20em;">
 
 ## Hi there, I'm Kevin 👋
 
