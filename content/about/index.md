@@ -14,7 +14,7 @@ Hello! I'm Kevin St-Sauveur, an undergraduate in Software Engineering (BEng.) at
 
 - 🧑‍💻 Software developer by the week.
 - 🌳 Passionate hiker that is impressed by the gorgeous nature by the weekend.
-- 📚 I’m constantly learning about online privacy and security practices.
+- 📸 Photographer in spare time.
 
 ## Projects
 
