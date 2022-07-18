@@ -30,7 +30,7 @@ https://kevin.st-sauveur.ca/posts/hello-world/
 
 ## Sections
 
-Each sections delimit a new functionality to the website. 
+Each section delimit a new functionality to the website. 
 
 - Home
 - About
@@ -45,8 +45,9 @@ Docs are written as markdown files with extension `.md`.
 
 # Images
 
-## Image optimization and compression
 Images are stored at [`/static/images`](https://github.com/kevinstsauveur/kevin.st-sauveur.ca/tree/main/static/img).
+
+## Image optimization and compression
 
 To reduce loading time, use the [WebP](https://developers.google.com/speed/webp) format to optimize and compress JPG/PNG/GIF image.
 
