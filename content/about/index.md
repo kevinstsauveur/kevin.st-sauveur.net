@@ -12,9 +12,9 @@ Hello! I'm Kevin St-Sauveur, an undergraduate in Software Engineering (BEng.) at
 
 ## Hobbies
 
-- 🧑‍💻 Software developer by the week.
-- 🌳 Passionate hiker that is impressed by the gorgeous nature by the weekend.
-- 📸 Photographer in spare time.
+-   🧑‍💻 Software developer by the week.
+-   🌳 Passionate hiker that is impressed by the gorgeous nature by the weekend.
+-   📸 Photographer in spare time.
 
 ## Projects
 
@@ -23,7 +23,8 @@ You can see more of my projects on my [github](https://github.com/kevinstsauveur
 ## Contact
 
 📫 You're more than welcome to contact me:
-  -  Matrix: ``@kevinstsauveur:matrix.org``
-  -  Email: ``kevin@st-sauveur.ca``
+
+-   Matrix: `@kevinstsauveur:matrix.org`
+-   Email: `kevin@st-sauveur.ca`
 
 You could also use my [OpenPGP key](https://github.com/kevinstsauveur/pgp-public-key) in combination of these methods.
