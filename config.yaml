@@ -1,4 +1,4 @@
-baseURL: 'https://kevin.st-sauveur.ca/'
+baseURL: "https://kevin.st-sauveur.ca/"
 languageCode: en-ca
 title: "Kevin.St-Sauveur.ca"
 theme: "PaperMod"
@@ -24,8 +24,8 @@ menu:
 enableEmoji: true
 
 minify:
-  disableXML: true
-  minifyOutput: true
+    disableXML: true
+    minifyOutput: true
 
 assets:
     favicon: "/favicon.ico"
@@ -82,7 +82,7 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
-    
+
     googleAnalytics: "G-6ZQP7T805G"
 
 outputs:
