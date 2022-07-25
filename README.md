@@ -48,13 +48,10 @@ Docs are written as markdown files with extension `.md`.
 
 # Images
 
-Images are stored at [`/static/images`](https://github.com/kevinstsauveur/kevin.st-sauveur.ca/tree/main/static/img).
+Images are stored in [`/static/images`](https://github.com/kevinstsauveur/kevin.st-sauveur.ca/tree/main/static/img).
 
 ## Image optimization and compression
 
-To reduce loading time, use the [WebP](https://developers.google.com/speed/webp) format to optimize and compress JPG/PNG/GIF image.
+To reduce loading time, use the [AVIF](https://aomediacodec.github.io/av1-avif/) and [WebP](https://developers.google.com/speed/webp) format to optimize and compress JPG/PNG/GIF images.
 
-Command used:
-
--   For every still profile image: `cwebp input.png -q 80 -pass 10 -m 6 -hint picture -o output.webp`
--   For every still picture image: `cwebp input.png -q 80 -pass 10 -m 6 -hint photo -o output.webp`
+Code has been added to handle AVIF and WebP. As a fallback, JPG will be used for non supported browsers.
