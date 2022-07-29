@@ -46,10 +46,10 @@ params:
         enabled: true
         title: "Kevin St-Sauveur" # optional default will be site title
         subtitle: "Technology enthusiast"
-        imageUrl: "/img/profile.webp" # optional
-        imageTitle: "Kevin" # optional
-        imageWidth: 220 # custom size
-        imageHeight: 220 # custom size
+        imageUrl: "/img/profile.jpg" # optional
+        imageTitle: "Profile picture" # optional
+        imageWidth: 300 # custom size
+        imageHeight: 300 # custom size
         buttons:
             - name: Posts
               url: "/posts"
