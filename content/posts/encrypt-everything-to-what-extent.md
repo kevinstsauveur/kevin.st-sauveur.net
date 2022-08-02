@@ -46,5 +46,5 @@ The watchword would be to **encrypt everything that you would rather lose than t
 To minimize data loss, remember that no matter how you store your data, always use the 3-2-1 rule:
 
 - Keep three (3) copies of your data.
-- Store two (2) backup copies on different storage media, avoiding online real time sync.
+- Store two (2) backup copies on different storage media, avoiding online real-time sync.
 - Stock one (1) backup copy in a remote location.
