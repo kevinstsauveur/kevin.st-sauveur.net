@@ -9,6 +9,14 @@ categories: ["Tech"]
 
 One would say to encrypt everything, but to what extent? The dilemma between secure and safe from a data recovery stand point.
 
+<center>
+<picture>
+    <source type="image/avif" srcset="/img/blog/harddrives.avif" >
+    <source type="image/webp" srcset="/img/blog/harddrives.webp" >
+    <img loading="lazy" src="/img/blog/harddrives.jpg" alt="Harddrives picture" style="width:20em;">
+</picture>
+</center>
+
 ## Encryption you say?
 
 Encryption is the process of scrambling data in a way that it can't be unscrambled. There are multiple types of encryption (such as Asymmetric Encryption and Symmetric Encryption) and these methods are used to ensure that no unauthorized users access your sensitive information, thus protecting your data.
