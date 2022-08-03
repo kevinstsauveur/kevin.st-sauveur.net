@@ -27,7 +27,7 @@ Today, the _modus operandi_ of the media and all those in charge of security ([I
 
 ## The problem with encryption from a data recovery stand point
 
-Data recovery experts would say that if you don't have strong encryption on your local drive, on your backups, on your local accounts, then the worst that can happen in the event of a theft (let's say someone breaks into your house and steals your computer or someone steals your phone on the subway), you can easily replace your device and regain access to your data since you have a proper unencrypted backup. **BUT**, _BUT_, **_BUT_**, one day you could be browsing reddit - or any other website - and see yourself (emails, intimate photos, full identity, medical records, private messages, etc. ) and there's no way to go back. It would be permanently written into the infinite memory of the web. However, all this data ~~s~~ were yours, it is sensitive and could be extremely damaging if it were publicly available.
+Data recovery experts would say that if you don't have strong encryption on your local drive, on your backups, on your local accounts, then the worst that can happen in the event of a theft (let's say someone breaks into your house and steals your computer or someone steals your phone on the subway), you can easily replace your device and regain access to your data since you have a proper unencrypted backup. **BUT**, _BUT_, **_BUT_**, one day you could be browsing reddit - or any other website - and see yourself (emails, intimate photos, full identity, medical records, private messages, etc. ) and there's no way to go back. It would be permanently written into the infinite memory of the web. However, all this data ~~is~~ were yours, it is sensitive and could be extremely damaging if it were publicly available.
 
 Data theft is a growing threat, which is exactly why a lot of information security experts keep telling you that it's better to encrypt everything to ensure that **if anything fails, it fails secure rather than safe**. But is that really what you want?
 
@@ -39,7 +39,7 @@ Let's say you encrypt everything and everything is secure (disks, backups, onlin
 
 This is exactly how encryption ransomware works. Your data is locked away where you can't access it in the hopes that it's valuable enough to you to pay for the decryption key. And yes, this is a growing trend. [According to Palo Alto](https://unit42.paloaltonetworks.com/ransomware-threat-report-highlights/), the average ransom paid by victim organizations in Europe, the U.S. and Canada has nearly tripled from $115,123 in 2019 to $312,493 in 2020.
 
-The paradox is that data loss impacts more people than data theft, which is why sometimes fail safe is more suitable than fail secure
+The paradox is that data loss impacts more people than data theft, which is why sometimes fail safe is more suitable than fail secure.
 
 ## End word
 
