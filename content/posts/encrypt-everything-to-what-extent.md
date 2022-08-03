@@ -35,16 +35,16 @@ Data theft is a growing threat, which is exactly why a lot of information securi
 
 Your data is **safe** when you have copies from which you can restore it in case of loss or corruption. Your data is **secure** when it is protected from unauthorized access that could result in data compromise, corruption or deletion.
 
-Let's say you encrypt everything and everything is secure (disks, backups, online accounts protected with MFA and unique passwords). A case scenario would be that you lose access to everything. If a fire happens and it takes your hardware security key, your phone, your laptop, your backups, that means you no longer have access to your MFA or password manager. This also means that you have no way to recover data from your cloud backups, as they are, of course, password protected. You can get new devices, but you no longer have access to those backups or accounts. Bye-bye to your dog pictures, travel log, family files or any important information. Without decryption keys, in your eyes, your data is written in the equivalent of random strings or unreadable binary blobs. It's lost, forever.
+Let's say you encrypt everything and everything is secure (disks, backups, online accounts protected with MFA and unique passwords). A case scenario would be that you lose access to everything. If a fire happens and it takes your hardware security key, your phone, your laptop, your backups, that means you no longer have access to your MFA or password manager. This also means that you have no way to recover data from your cloud backups, as they are, of course, password protected. You can get new devices, but you no longer have access to those backups or accounts. Bye-bye to your dog pictures, travel journal, family records or any important information. Without decryption keys, in your eyes, your data is written in the equivalent of random strings or unreadable binary blobs. It's lost, forever.
 
 This is exactly how encryption ransomware works. Your data is locked away where you can't access it in the hopes that it's valuable enough to you to pay for the decryption key. And yes, this is a growing trend. [According to Palo Alto](https://unit42.paloaltonetworks.com/ransomware-threat-report-highlights/), the average ransom paid by victim organizations in Europe, the U.S. and Canada has nearly tripled from $115,123 in 2019 to $312,493 in 2020.
 
-The paradox is that data loss impacts more people than data theft, which is why sometimes a secure system is more appropriate than a safe system.
+The paradox is that data loss impacts more people than data theft, which is why sometimes fail safe is more suitable than fail secure
 
 ## End word
 
 ### Always reevaluate
 
-Don't hesitate to re-evaluate your backup strategies. The data you choose to keep safe today may be the data you want to keep safe tomorrow.
+Don't hesitate to re-evaluate your backup strategies. The data you choose to keep safe today may be the data you want to keep secure tomorrow.
 
 The watchword would be to **encrypt everything that you would rather lose than to be recovered**. The risk of choosing one option is the benefit of the other. **Don't encrypt anything you would rather have stolen than lose.**
