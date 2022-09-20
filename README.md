@@ -1,6 +1,6 @@
 # Website
 
-This is the repository used to build and publish Kevin's [website](https://kevin.st-sauveur.ca).
+This is the repository used to build and publish Kevin's [website](https://kevin.st-sauveur.net).
 
 ## Quick start
 
@@ -19,17 +19,17 @@ The site is organized by section.
 
 ```
 # URL structure
-https://kevin.st-sauveur.ca/{ section }/{ page name }
+https://kevin.st-sauveur.net/{ section }/{ page name }
 
 # Example
-https://kevin.st-sauveur.ca/posts/hello-world/
+https://kevin.st-sauveur.net/posts/hello-world/
 ```
 
 ## Home page
 
--   Home: [kevin.st-sauveur.ca](https://kevin.st-sauveur.ca)
--   About: [https://kevin.st-sauveur.ca/about/](https://kevin.st-sauveur.ca/about/)
--   Posts: [https://kevin.st-sauveur.ca/posts/](https://kevin.st-sauveur.ca/posts/)
+-   Home: [kevin.st-sauveur.net](https://kevin.st-sauveur.net)
+-   About: [https://kevin.st-sauveur.net/about/](https://kevin.st-sauveur.net/about/)
+-   Posts: [https://kevin.st-sauveur.net/posts/](https://kevin.st-sauveur.net/posts/)
 
 ## Sections
 
@@ -48,7 +48,7 @@ Docs are written as markdown files with extension `.md`.
 
 # Images
 
-Images are stored in [`/static/images`](https://github.com/kevinstsauveur/kevin.st-sauveur.ca/tree/main/static/img).
+Images are stored in [`/static/images`](https://github.com/kevinstsauveur/kevin.st-sauveur.net/tree/main/static/img).
 
 ## Image optimization and compression
 

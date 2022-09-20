@@ -1,6 +1,6 @@
-baseURL: "https://kevin.st-sauveur.ca/"
+baseURL: "https://kevin.st-sauveur.net/"
 languageCode: en-ca
-title: "Kevin.St-Sauveur.ca"
+title: "Kevin.St-Sauveur.net"
 theme: "PaperMod"
 
 menu:
@@ -40,7 +40,7 @@ params:
     env: production
     GitHubUser: kevinstsauveur
     author: Kevin St-Sauveur
-    description: "kevin.st-sauveur.ca | https://github.com/kevinstsauveur/kevin.st-sauveur.ca"
+    description: "kevin.st-sauveur.net | https://github.com/kevinstsauveur/kevin.st-sauveur.ca"
 
     profileMode:
         enabled: true
