@@ -12,7 +12,7 @@ TocOpen: true
 
 ## Hi there, I'm Kevin 👋
 
-Hello! I'm Kevin St-Sauveur, an undergraduate in Software Engineering (BEng.) at ÉTS (École de Technologie Supérieure) from Montreal :flag_ca: . I'm passionate about new technologies that evolves around security and privacy.
+Hello! Since I graduated in software engineering (B. Eng.) at ÉTS (École de Technologie Supérieure) in Montreal :flag_ca: , my personal projects focus on various subjects that fascinate me. I'm passionate about new technologies that evolves around security and privacy.
 
 ## Hobbies
 
