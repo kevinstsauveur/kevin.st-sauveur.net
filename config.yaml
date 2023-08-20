@@ -86,7 +86,7 @@ params:
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
 
-    googleAnalytics: "G-6ZQP7T805G"
+    googleAnalytics: "G-GR9Z5WBM2M"
 
 outputs:
     home:
