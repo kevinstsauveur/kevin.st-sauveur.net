@@ -40,7 +40,7 @@ params:
     env: production
     GitHubUser: kevinstsauveur
     author: Kevin St-Sauveur
-    description: "kevin.st-sauveur.net | https://github.com/kevinstsauveur/kevin.st-sauveur.ca"
+    description: "kevin.st-sauveur.net | https://github.com/kevinstsauveur/kevin.st-sauveur.net"
 
     profileMode:
         enabled: true
@@ -86,7 +86,7 @@ params:
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
 
-    googleAnalytics: "G-GR9Z5WBM2M"
+    googleAnalytics: "G-4QN8KD2RS6"
 
 outputs:
     home:
