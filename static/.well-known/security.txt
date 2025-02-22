@@ -1,0 +1,4 @@
+Contact: mailto:army-elderly-dish@duck.com?subject=Security%20Report%20for%20kevin.st-sauveur.ca
+Expires: 2026-12-31T22:59:00.000Z
+Encryption: https://raw.githubusercontent.com/kevinstsauveur/pgp-public-key/refs/heads/main/kevinstsauveur_0x29880D6D.asc
+Preferred-Languages: fr
